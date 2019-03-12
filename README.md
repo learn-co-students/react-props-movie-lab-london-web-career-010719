@@ -90,3 +90,4 @@ style={{backgroundImage: `url(${prop})`}}
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-props-movie-lab'>Props Lab</a> on Learn.co and start learning to code for free.</p>
 
 [lists-and-keys]: https://reactjs.org/docs/lists-and-keys.html
+prop
